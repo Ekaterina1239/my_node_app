@@ -1,0 +1,24 @@
+{
+  "name": "my_node_app",
+  "version": "1.0.0",
+  "description": "A site consisting of 6 pages in which Cola and their co-brands are located. It has a site for communication, tables of information and details about the company.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ekaterina1239/my_node_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ekaterina1239/my_node_app/issues"
+  },
+  "homepage": "https://github.com/Ekaterina1239/my_node_app#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
